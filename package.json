@@ -1,6 +1,6 @@
 {
   "name": "speaknowjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this library is a simple text to speech",
   "main": "main.js",
   "scripts": {
