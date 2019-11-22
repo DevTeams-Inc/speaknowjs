@@ -1,0 +1,25 @@
+{
+  "name": "speaknowjs",
+  "version": "1.0.0",
+  "description": "this library is a simple text to speech",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orbis25/speaknowjs.git"
+  },
+  "keywords": [
+    "text",
+    "to",
+    "speech",
+    "js"
+  ],
+  "author": "DevTeams inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orbis25/speaknowjs/issues"
+  },
+  "homepage": "https://github.com/Orbis25/speaknowjs#readme"
+}
